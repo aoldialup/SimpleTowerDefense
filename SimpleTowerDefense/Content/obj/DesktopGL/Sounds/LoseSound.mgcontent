@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Sounds/LoseSound.wav</SourceFile>
+  <SourceTime>2022-06-20T19:59:50.3612202-04:00</SourceTime>
+  <DestFile>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/bin/Debug/Content/Sounds/LoseSound.xnb</DestFile>
+  <DestTime>2022-06-20T21:08:56.4825514-04:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

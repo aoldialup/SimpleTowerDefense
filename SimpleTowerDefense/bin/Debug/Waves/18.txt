@@ -1,0 +1,14 @@
+B,G,G,G,G,G,G,G,G,G,G,G
+B,G,G,G,G,G,G,G,G,G,G,G
+B,G,G,G,G,G,G,G,G,G,G,G
+B,B,B,B,B,G,G,G,G,G,G,G
+B,G,B,G,B,G,G,G,G,G,G,G
+B,G,B,G,B,G,G,G,G,G,G,G
+B,G,B,G,B,G,G,G,G,G,G,G
+GT,B,B,B,B,G,G,G,G,G,G,G
+;
+3,0|3,4|7,4|7,0
+1,0|7,0
+3,0|3,2|7,2|7,0
+;
+1012010212102102103102100

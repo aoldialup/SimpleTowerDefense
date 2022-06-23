@@ -1,0 +1,13 @@
+B,B,B,B,B,B,B,B,B,B,B,B
+B,G,G,G,G,G,G,G,G,G,G,B
+B,G,G,G,G,G,G,G,G,G,G,B
+B,G,G,G,G,G,G,G,G,G,G,B
+B,B,B,B,B,B,B,B,B,B,B,B
+G,G,G,G,B,G,G,B,G,G,G,G
+G,G,G,G,B,G,G,B,G,G,G,G
+G,G,G,G,B,B,GT,B,G,G,G,G
+;
+0,11|4,11|4,7|7,7|7,6
+4,0|4,4|7,4|7,6
+;
+010101010101

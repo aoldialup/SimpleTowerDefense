@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Fonts/RegularFont.spritefont</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Fonts/SmallFont.spritefont</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Sounds/CashRegister.wav</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Sounds/Click.wav</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Sounds/ExplosionSound.wav</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Sounds/IceAttack.wav</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Sounds/LoseSound.wav</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Sounds/Tada.wav</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Sounds/ZombieAttackTower.wav</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/BlankTexture.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Brick.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Defenses/ArcherTurret.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Defenses/Arrow.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Defenses/Bomb.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Defenses/BombExplosion.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Defenses/BombTurret.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Defenses/Grenade.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Defenses/IceTurret.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Defenses/IceTurretProjectile.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Enemies/BossZombie/LookDown.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Enemies/BossZombie/LookLeft.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Enemies/BossZombie/LookRight.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Enemies/BossZombie/LookUp.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Enemies/EasyZombie/LookDown.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Enemies/EasyZombie/LookLeft.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Enemies/EasyZombie/LookRight.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Enemies/EasyZombie/LookUp.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Enemies/HardZombie/LookDown.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Enemies/HardZombie/LookLeft.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Enemies/HardZombie/LookRight.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Enemies/HardZombie/LookUp.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Enemies/MediumZombie/LookDown.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Enemies/MediumZombie/LookLeft.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Enemies/MediumZombie/LookRight.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Enemies/MediumZombie/LookUp.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Grass.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/GrayBrick.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/HUDBar.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/Target.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/UI/BlankTexture.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/UI/Bobux.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/UI/GameOverShadow.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/UI/Heart.png</File>
+    <File>C:/Users/teraflops360/Desktop/PASS3 Versions/1.1/SimpleTowerDefense/SimpleTowerDefense/Content/Textures/UI/NoSymbol.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

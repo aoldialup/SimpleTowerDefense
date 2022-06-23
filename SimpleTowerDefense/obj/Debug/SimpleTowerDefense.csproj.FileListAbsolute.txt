@@ -1,0 +1,26 @@
+C:\Users\teraflops360\Desktop\PASS3 Versions\1.1\SimpleTowerDefense\SimpleTowerDefense\bin\Debug\SimpleTowerDefense.exe.config
+C:\Users\teraflops360\Desktop\PASS3 Versions\1.1\SimpleTowerDefense\SimpleTowerDefense\bin\Debug\SimpleTowerDefense.exe
+C:\Users\teraflops360\Desktop\PASS3 Versions\1.1\SimpleTowerDefense\SimpleTowerDefense\bin\Debug\SimpleTowerDefense.pdb
+C:\Users\teraflops360\Desktop\PASS3 Versions\1.1\SimpleTowerDefense\SimpleTowerDefense\bin\Debug\Animation2D.dll
+C:\Users\teraflops360\Desktop\PASS3 Versions\1.1\SimpleTowerDefense\SimpleTowerDefense\bin\Debug\MonoGame.Framework.dll
+C:\Users\teraflops360\Desktop\PASS3 Versions\1.1\SimpleTowerDefense\SimpleTowerDefense\bin\Debug\MonoGame.Framework.xml
+C:\Users\teraflops360\Desktop\PASS3 Versions\1.1\SimpleTowerDefense\SimpleTowerDefense\obj\Debug\SimpleTowerDefense.csproj.AssemblyReference.cache
+C:\Users\teraflops360\Desktop\PASS3 Versions\1.1\SimpleTowerDefense\SimpleTowerDefense\obj\Debug\SimpleTowerDefense.csproj.SuggestedBindingRedirects.cache
+C:\Users\teraflops360\Desktop\PASS3 Versions\1.1\SimpleTowerDefense\SimpleTowerDefense\obj\Debug\SimpleTowerDefense.csproj.CoreCompileInputs.cache
+C:\Users\teraflops360\Desktop\PASS3 Versions\1.1\SimpleTowerDefense\SimpleTowerDefense\obj\Debug\SimpleTowerDefense.csproj.CopyComplete
+C:\Users\teraflops360\Desktop\PASS3 Versions\1.1\SimpleTowerDefense\SimpleTowerDefense\obj\Debug\SimpleTowerDefense.exe
+C:\Users\teraflops360\Desktop\PASS3 Versions\1.1\SimpleTowerDefense\SimpleTowerDefense\obj\Debug\SimpleTowerDefense.pdb
+C:\Users\teraflops360\Desktop\PASS3 Versions\1.1\SimpleTowerDefense\SimpleTowerDefense\bin\Debug\Content\Fonts\RegularFont.xnb
+C:\Users\teraflops360\Desktop\Presentation\SimpleTowerDefense\SimpleTowerDefense\bin\Debug\Content\Fonts\RegularFont.xnb
+C:\Users\teraflops360\Desktop\Presentation\SimpleTowerDefense\SimpleTowerDefense\bin\Debug\SimpleTowerDefense.exe.config
+C:\Users\teraflops360\Desktop\Presentation\SimpleTowerDefense\SimpleTowerDefense\bin\Debug\SimpleTowerDefense.exe
+C:\Users\teraflops360\Desktop\Presentation\SimpleTowerDefense\SimpleTowerDefense\bin\Debug\SimpleTowerDefense.pdb
+C:\Users\teraflops360\Desktop\Presentation\SimpleTowerDefense\SimpleTowerDefense\bin\Debug\Animation2D.dll
+C:\Users\teraflops360\Desktop\Presentation\SimpleTowerDefense\SimpleTowerDefense\bin\Debug\MonoGame.Framework.dll
+C:\Users\teraflops360\Desktop\Presentation\SimpleTowerDefense\SimpleTowerDefense\bin\Debug\MonoGame.Framework.xml
+C:\Users\teraflops360\Desktop\Presentation\SimpleTowerDefense\SimpleTowerDefense\obj\Debug\SimpleTowerDefense.csproj.AssemblyReference.cache
+C:\Users\teraflops360\Desktop\Presentation\SimpleTowerDefense\SimpleTowerDefense\obj\Debug\SimpleTowerDefense.csproj.SuggestedBindingRedirects.cache
+C:\Users\teraflops360\Desktop\Presentation\SimpleTowerDefense\SimpleTowerDefense\obj\Debug\SimpleTowerDefense.csproj.CoreCompileInputs.cache
+C:\Users\teraflops360\Desktop\Presentation\SimpleTowerDefense\SimpleTowerDefense\obj\Debug\SimpleTowerDefense.csproj.CopyComplete
+C:\Users\teraflops360\Desktop\Presentation\SimpleTowerDefense\SimpleTowerDefense\obj\Debug\SimpleTowerDefense.exe
+C:\Users\teraflops360\Desktop\Presentation\SimpleTowerDefense\SimpleTowerDefense\obj\Debug\SimpleTowerDefense.pdb

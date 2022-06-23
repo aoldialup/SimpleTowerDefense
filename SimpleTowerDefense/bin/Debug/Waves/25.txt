@@ -1,0 +1,15 @@
+B,B,B,B,B,B,B,B,B,B,B,B
+B,G,G,G,G,G,G,G,G,G,G,B
+B,G,G,G,G,G,G,G,G,G,G,B
+B,B,B,B,B,B,B,B,B,B,B,B
+B,G,G,G,B,G,G,G,G,G,G,B
+B,G,G,G,B,G,G,G,G,G,G,B
+B,G,G,G,B,G,G,G,G,G,G,B
+GT,B,B,B,B,B,B,B,B,B,B,B
+;
+3,0|3,4|7,4|7,0
+1,0|7,0
+3,0|3,11|7,11|7,0
+0,11|7,11|7,0
+;
+11111111111
